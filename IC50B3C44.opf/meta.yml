@@ -1,0 +1,234 @@
+id: IC50B3C44
+ocr_import_info:
+  timestamp: '2023-07-05T11:01:50.129296+00:00'
+  batch_id: batch-cf2f
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: PechaJobs
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-07-06 08:24:15.098767+00:00
+last_modified: 2023-07-06 08:24:15.098773+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W3CN21303
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW3CN21303
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: གསུང་འབུམ། འཇམ་དབྱངས་རྣམ་རྒྱལ་རྒྱ་མཚོ།
+  languages:
+  - bo
+  author: འཇུ་མི་ཕམ་འཇམ་དབྱངས་རྣམ་རྒྱལ་རྒྱ་མཚོ།
+statistics:
+  ocr_word_mean_confidence_index: 0.9495893732516222
+  ocr_word_median_confidence_index: 0.99544555
+bases:
+  I3CN21401:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21401
+      total_pages: 790
+      volume_number: 8
+      volume_pages_bdrc_intro: 2
+    order: 8
+    base_file: I3CN21401.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9866343
+      ocr_word_mean_confidence_index: 0.9273991304399755
+  I3CN21402:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21402
+      total_pages: 841
+      volume_number: 9
+      volume_pages_bdrc_intro: 2
+    order: 9
+    base_file: I3CN21402.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9820428
+      ocr_word_mean_confidence_index: 0.9221168741925528
+  I3CN21411:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21411
+      total_pages: 978
+      volume_number: 18
+      volume_pages_bdrc_intro: 2
+    order: 18
+    base_file: I3CN21411.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99507123
+      ocr_word_mean_confidence_index: 0.9538702967862611
+  I3CN21404:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21404
+      total_pages: 959
+      volume_number: 11
+      volume_pages_bdrc_intro: 2
+    order: 11
+    base_file: I3CN21404.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9971414000000001
+      ocr_word_mean_confidence_index: 0.957693994682025
+  I3CN21397:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21397
+      total_pages: 730
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I3CN21397.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9928807
+      ocr_word_mean_confidence_index: 0.9436159413762779
+  I3CN21408:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21408
+      total_pages: 400
+      volume_number: 15
+      volume_pages_bdrc_intro: 2
+    order: 15
+    base_file: I3CN21408.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99764557
+      ocr_word_mean_confidence_index: 0.9636545380840634
+  I3CN21410:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21410
+      total_pages: 930
+      volume_number: 17
+      volume_pages_bdrc_intro: 2
+    order: 17
+    base_file: I3CN21410.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99606075
+      ocr_word_mean_confidence_index: 0.9579862875987908
+  I3CN21407:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21407
+      total_pages: 1250
+      volume_number: 14
+      volume_pages_bdrc_intro: 2
+    order: 14
+    base_file: I3CN21407.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.998782
+      ocr_word_mean_confidence_index: 0.967274059505865
+  I3CN21399:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21399
+      total_pages: 1092
+      volume_number: 6
+      volume_pages_bdrc_intro: 2
+    order: 6
+    base_file: I3CN21399.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.997849
+      ocr_word_mean_confidence_index: 0.9570351989265748
+  I3CN21406:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21406
+      total_pages: 946
+      volume_number: 13
+      volume_pages_bdrc_intro: 2
+    order: 13
+    base_file: I3CN21406.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99711682
+      ocr_word_mean_confidence_index: 0.958548664372922
+  I3CN21400:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21400
+      total_pages: 1118
+      volume_number: 7
+      volume_pages_bdrc_intro: 2
+    order: 7
+    base_file: I3CN21400.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9965282
+      ocr_word_mean_confidence_index: 0.9488129600980507
+  I3CN21396:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21396
+      total_pages: 872
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I3CN21396.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9970966
+      ocr_word_mean_confidence_index: 0.9608684042738285
+  I3CN21394:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21394
+      total_pages: 770
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I3CN21394.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.98078144
+      ocr_word_mean_confidence_index: 0.9319135728869467
+  I3CN21405:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21405
+      total_pages: 394
+      volume_number: 12
+      volume_pages_bdrc_intro: 2
+    order: 12
+    base_file: I3CN21405.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99033028
+      ocr_word_mean_confidence_index: 0.9409617989054545
+  I3CN21409:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21409
+      total_pages: 892
+      volume_number: 16
+      volume_pages_bdrc_intro: 2
+    order: 16
+    base_file: I3CN21409.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.98214847
+      ocr_word_mean_confidence_index: 0.9226714967033622
+  I3CN21398:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21398
+      total_pages: 888
+      volume_number: 5
+      volume_pages_bdrc_intro: 2
+    order: 5
+    base_file: I3CN21398.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9932195
+      ocr_word_mean_confidence_index: 0.935957345356596
+  I3CN21403:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21403
+      total_pages: 794
+      volume_number: 10
+      volume_pages_bdrc_intro: 2
+    order: 10
+    base_file: I3CN21403.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9948646
+      ocr_word_mean_confidence_index: 0.945034216746876
+  I3CN21395:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN21395
+      total_pages: 760
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I3CN21395.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99912193
+      ocr_word_mean_confidence_index: 0.9672128236594362
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
